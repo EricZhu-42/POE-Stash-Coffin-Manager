@@ -1,0 +1,10 @@
+{
+    "POESESSID": "your_poe_session_id_here",
+    "accountName": "your_poe_account_name_here",
+    "realm": "pc",
+    "league" : "Necropolis",
+    "tab_names": [
+        "C1",
+        "C2"
+    ]
+}
