@@ -39,6 +39,10 @@ class CoffinParser:
             imp = c["implicit"]
             cat = c["category"]
 
+            if imp.startswith("Haunted by"):
+                family = imp.split(" ")[-1]
+                imp = f"Haunted by * {family}"
+
             success = False
             for mode_type in data.keys():
                 if imp in data[mode_type]:

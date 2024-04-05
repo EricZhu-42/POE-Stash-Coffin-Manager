@@ -4,7 +4,7 @@ from stash_parser import StashParser
 from coffin_parser import CoffinParser
 from price_parser import PriceParser
 
-VERBOSE = False
+VERBOSE = True
 
 def main():
 

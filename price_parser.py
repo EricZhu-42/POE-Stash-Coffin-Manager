@@ -14,6 +14,9 @@ class PriceParser:
 
         mapping = {item["baseType"]: item["chaosValue"] for item in lvl_80_data}
 
+        for family in ["Phrecia", "Grattus", "Veruso", "Perandus", "Nevalius"]:
+            mapping[f"Haunted by * {family}"] = sum(item["chaosValue"] for item in lvl_80_data if item["baseType"].endswith(family)) / 4
+
         self.mapping = mapping
     
     def get_price(self, item):
