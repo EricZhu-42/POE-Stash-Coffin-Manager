@@ -2,6 +2,7 @@ import json
 
 from stash_parser import StashParser
 from coffin_parser import CoffinParser
+from price_parser import PriceParser
 
 VERBOSE = False
 
@@ -16,6 +17,8 @@ def main():
     coffin_parser = CoffinParser()
     data = coffin_parser.parse_coffin(coffins, verbose=VERBOSE)
 
+    price_parser = PriceParser()
+
     lines = []
 
     for cat in data:
@@ -27,14 +30,14 @@ def main():
 
                 if not should_print:
                     should_print = True
-                    lines.append(f"========= {cat:^14} =========")
+                    lines.append(f"============= {cat:^14} =============")
 
                 name = data[cat][mod]['name']
                 stock = data[cat][mod]['count']
-                price = "1C" # TODO: implement price
+                price = round(price_parser.get_price(mod))
                 
                 lines.append(
-                    f"{name:<18} | {price:<3} | {stock:<2} left"
+                    f"{name:<18} | {price:<3} c/ea | Stock: {stock:<2}"
                 )
     
     lines = "\n".join(lines)
