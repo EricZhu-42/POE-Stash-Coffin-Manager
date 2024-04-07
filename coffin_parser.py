@@ -15,11 +15,17 @@ class CoffinParser:
             next(reader)
 
             for row in reader:
-                mod, mod_type, name = row
+                mod, mod_type, name, price = row
 
                 mod = mod.strip()
                 mod_type = mod_type.strip()
                 name = name.strip()
+                price = price.strip()
+
+                if not len(price):
+                    price = 0
+                else:
+                    price = int(price)
 
                 if not len(mod_type):
                     continue
@@ -27,7 +33,7 @@ class CoffinParser:
                 if mod_type not in data:
                     data[mod_type] = {}
                     
-                data[mod_type][mod] = {"name": name, "total_count": 0, "sub_counts": {cat: 0 for cat in CATEGORIES}}
+                data[mod_type][mod] = {"name": name, "total_count": 0, "sub_counts": {cat: 0 for cat in CATEGORIES}, "price": price}
 
         return data
     

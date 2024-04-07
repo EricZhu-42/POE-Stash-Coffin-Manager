@@ -4,7 +4,7 @@ from stash_parser import StashParser
 from coffin_parser import CoffinParser
 from price_parser import PriceParser
 
-VERBOSE = True
+VERBOSE = False
 SHOW_CAT = True
 
 def main():
@@ -26,6 +26,9 @@ def main():
         if not len(cat):
             continue
 
+        # if cat not in ["Effect", "Modifiers", "Not Consume"]:
+        #     continue
+
         should_print = False
         for mod in data[cat]:
             if data[cat][mod]["total_count"] > 0:
@@ -42,7 +45,10 @@ def main():
 
                 name = data[cat][mod]['name']
                 stock = data[cat][mod]['total_count']
-                price = round(price_parser.get_price(mod))
+                # price = round(price_parser.get_price(mod))
+                price = data[cat][mod]['price']
+                # if price <= 0:
+                #     continue
 
                 line = f"{name:<18} | {price:<3} c/ea | Stock: {stock:<3}"
 
@@ -53,7 +59,9 @@ def main():
     
     lines = "\n".join(lines)
 
-    print(lines)
+    print("WTS SoftCore\nCorpses ilvl 83:\n")
+    print("```\n" + lines + "\n```")
+    print("IGN: `@NULL_NECROPOLIS`")
 
 if __name__ == "__main__":
     main()

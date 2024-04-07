@@ -1,119 +1,119 @@
-Mod,Category,Abbr
-25% increased Effect of Corpses in this Grave Column,Effect,25% effect Column
-25% increased Effect of Corpses in this Grave Row,Effect,25% effect Row
-40% increased Effect of Beast Corpses adjacent to this Corpse,Effect,40% adj Bea$t
-40% increased Effect of Construct Corpses adjacent to this Corpse,Effect,40% adj Construct
-40% increased Effect of Demon Corpses adjacent to this Corpse,Effect,40% adj Demon
-40% increased Effect of Humanoid Corpses adjacent to this Corpse,Effect,40% adj Humanoid
-40% increased Effect of Undead Corpses adjacent to this Corpse,Effect,40% adj Undead
-300% increased chance of Attack Modifiers,Increase 300%,Attack
-300% increased chance of Caster Modifiers,Increase 300%,Caster
-300% increased chance of Elemental Modifiers,Increase 300%,Elemental
-300% increased chance for Prefix Modifiers,Increase 300%,Prefix
-300% increased chance of Suffix Modifiers,Increase 300%,Suffix
-500% increased chance of Attribute Modifiers,Increase 500%,Attribute
-500% increased chance of Chaos Modifiers,Increase 500%,Chaos
-500% increased chance of Cold Modifiers,Increase 500%,Cold
-500% increased chance of Critical Modifiers,Increase 500%,Critical
-500% increased chance of Defence Modifiers,Increase 500%,Defence
-500% increased chance of Fire Modifiers,Increase 500%,Fire
-500% increased chance of Gem Modifiers,Increase 500%,Gem
-500% increased chance of Life Modifiers,Increase 500%,Life
-500% increased chance of Lightning Modifiers,Increase 500%,Lightning
-500% increased chance of Mana Modifiers,Increase 500%,Mana
-500% increased chance of Minion Modifiers,Increase 500%,Minion
-500% increased chance of Physical Modifiers,Increase 500%,Physical
-500% increased chance of Resistance Modifiers,Increase 500%,Resistance
-500% increased chance of Speed Modifiers,Increase 500%,Speed
-20% chance to craft an additional Item,Meta Crafting,20% additional
-25% chance to Fracture an Explicit Modifier,Meta Crafting,25% fracture
-25% chance to create a Mirrored Copy,Meta Crafting,25% mirrored
-25% chance to create a Split Copy,Meta Crafting,25% split
-+1 Explicit Modifier,Modifiers,+1 Explicit
-+1 to Item Level,Modifiers,+1 Item Level
-"+5% to Quality, up to 30%",Modifiers,+5 to Quality
--1 Explicit Modifiers,Modifiers,-1 Explicit
-+50 to Modifier Tier Rating ,Modifiers,Modifier Tier
-"+1 to minimum number of Linked Sockets, up to a maximum of 4",Modifiers,+1 Link to 4
-"+1 to minimum number of Linked Sockets, up to a maximum of 5",Modifiers,+1 Link to 5
-"+1 to minimum number of Linked Sockets, up to a maximum of 6",Modifiers,+1 Link to 6
-"5% chance for Beast Corpses to not be consumed when Exorcising, up to 50%",Not Consume,5% not cons Bea
-"5% chance for Construct Corpses to not be consumed when Exorcising, up to 50%",Not Consume,5% not cons Con
-"5% chance for Demon Corpses to not be consumed when Exorcising, up to 50%",Not Consume,5% not cons Dem
-"5% chance for Humanoid Corpses to not be consumed when Exorcising, up to 50%",Not Consume,5% not cons Hum
-"5% chance for Undead Corpses to not be consumed when Exorcising, up to 50%",Not Consume,5% not cons Und
-Attribute Modifiers are 100% scarcer ,Scarcer 100%,Attribute
-Chaos Modifiers are 100% scarcer ,Scarcer 100%,Chaos
-Cold Modifiers are 100% scarcer ,Scarcer 100%,Cold
-Critical Modifiers are 100% scarcer ,Scarcer 100%,Critical
-Defence Modifiers are 100% scarcer ,Scarcer 100%,Defence
-Fire Modifiers are 100% scarcer ,Scarcer 100%,Fire
-Gem Modifiers are 100% scarcer ,Scarcer 100%,Gem
-Life Modifiers are 100% scarcer ,Scarcer 100%,Life
-Lightning Modifiers are 100% scarcer ,Scarcer 100%,Lightning
-Mana Modifiers are 100% scarcer ,Scarcer 100%,Mana
-Physical Modifiers are 100% scarcer ,Scarcer 100%,Physical
-Resistance Modifiers are 100% scarcer ,Scarcer 100%,Resistance
-Speed Modifiers are 100% scarcer ,Scarcer 100%,Speed
-Attack Modifiers are 150% scarcer ,Scarcer 150%,Attack
-Caster Modifiers are 150% scarcer ,Scarcer 150%,Caster
-Elemental Modifiers are 150% scarcer ,Scarcer 150%,Elemental
-Attribute Modifiers are 300% scarcer ,Scarcer 300%,Attribute
-Chaos Modifiers are 300% scarcer ,Scarcer 300%,Chaos
-Cold Modifiers are 300% scarcer ,Scarcer 300%,Cold
-Critical Modifiers are 300% scarcer ,Scarcer 300%,Critical
-Defence Modifiers are 300% scarcer ,Scarcer 300%,Defence
-Fire Modifiers are 300% scarcer ,Scarcer 300%,Fire
-Gem Modifiers are 300% scarcer ,Scarcer 300%,Gem
-Life Modifiers are 300% scarcer ,Scarcer 300%,Life
-Lightning Modifiers are 300% scarcer ,Scarcer 300%,Lightning
-Mana Modifiers are 300% scarcer ,Scarcer 300%,Mana
-Physical Modifiers are 300% scarcer ,Scarcer 300%,Physical
-Resistance Modifiers are 300% scarcer ,Scarcer 300%,Resistance
-Speed Modifiers are 300% scarcer ,Scarcer 300%,Speed
-Attack Modifiers are 50% scarcer ,Scarcer 50%,Attack
-Caster Modifiers are 50% scarcer ,Scarcer 50%,Caster
-Elemental Modifiers are 50% scarcer ,Scarcer 50%,Elemental
-150% increased chance of Haunted Modifiers,Modifiers,150% increased chance Haunted
-50% increased chance of Haunted Modifiers,Modifiers,50% increased chance Haunted
-Haunted by * Phrecia ,Unique,* Phrecia 
-Haunted by * Grattus ,Unique,* Grattus 
-Haunted by * Veruso ,Unique,* Veruso 
-Haunted by * Perandus ,Unique,* Perandus
-Haunted by * Nevalius ,Unique,* Nevalius
-50% increased chance for Corruption Implicit Modifiers,,
-Armour can roll Haunted Modifiers,,
-Armour can roll Haunted Modifiers,,
-Belt is a Stygian Vise,,
-Creates a Belt,,
-Creates a Bone Ring,,
-Creates a Cerulean Ring,,
-Creates a Grasping Mail,,
-"Creates a Helmet, Gloves or Boots with Ward",,
-Creates a Ring,,
-"Creates a Ritual Helmet, Gloves or Boots",,
-Creates a Sacrificial Garb,,
-Creates a Steel Ring,,
-Creates a Talisman,,
-Creates a Vermillion Ring,,
-Creates an Amulet,,
-Creates an Experimented Weapon,,
-Creates an Iolite Ring,,
-Creates an Opal Ring,,
-Has a random Conqueror Influence,,
-Has Shaper or Elder Influence,,
-Item is Corrupted,,
-Item sells for much more to Vendors,,
-"Randomises the numeric values of base Defences on an Armour 3 times, keeping the best outcome",,
-"Randomises the numeric values of base Defences on an Armour 6 times, keeping the best outcome",,
-Rarer Crafts are more common,,
-"Reforge socket links 20 times, keeping the greatest number of links",,
-"Reforge socket links 200 times, keeping the greatest number of links",,
-"Reforge socket numbers 200 times, keeping the greatest number of sockets",,
-"Reforge socket numbers 30 times, keeping the greatest number of sockets",,
-"Reroll Base Type 5 times, keeping the Base Type with the highest Level Requirement",,
-"Reroll Implicit Modifier Values 3 times, keeping the best outcome",,
-"Reroll Implicit Modifier Values 6 times, keeping the best outcome",,
-"Reroll Modifier Values of each Explicit Modifier 3 times, keeping the best outcome",,
-"Reroll Modifier Values of each Explicit Modifier 6 times, keeping the best outcome",,
-Ring is a Breach Ring,,
+Mod,Category,Abbr,Price
+25% increased Effect of Corpses in this Grave Column,Effect,25% effect Column,25
+25% increased Effect of Corpses in this Grave Row,Effect,25% effect Row,25
+40% increased Effect of Beast Corpses adjacent to this Corpse,Effect,40% adj Bea$t,20
+40% increased Effect of Construct Corpses adjacent to this Corpse,Effect,40% adj Construct,20
+40% increased Effect of Demon Corpses adjacent to this Corpse,Effect,40% adj Demon,20
+40% increased Effect of Humanoid Corpses adjacent to this Corpse,Effect,40% adj Humanoid,20
+40% increased Effect of Undead Corpses adjacent to this Corpse,Effect,40% adj Undead,20
+300% increased chance of Attack Modifiers,Increase,Attack,15
+300% increased chance of Caster Modifiers,Increase,Caster,25
+300% increased chance of Elemental Modifiers,Increase,Elemental,20
+300% increased chance for Prefix Modifiers,Increase,Prefix,40
+300% increased chance of Suffix Modifiers,Increase,Suffix,25
+500% increased chance of Attribute Modifiers,Increase,Attribute,20
+500% increased chance of Chaos Modifiers,Increase,Chaos,25
+500% increased chance of Cold Modifiers,Increase,Cold,15
+500% increased chance of Critical Modifiers,Increase,Critical,50
+500% increased chance of Defence Modifiers,Increase,Defence,10
+500% increased chance of Fire Modifiers,Increase,Fire,10
+500% increased chance of Gem Modifiers,Increase,Gem,60
+500% increased chance of Life Modifiers,Increase,Life,10
+500% increased chance of Lightning Modifiers,Increase,Lightning,10
+500% increased chance of Mana Modifiers,Increase,Mana,15
+500% increased chance of Minion Modifiers,Increase,Minion,70
+500% increased chance of Physical Modifiers,Increase,Physical,15
+500% increased chance of Resistance Modifiers,Increase,Resistance,25
+500% increased chance of Speed Modifiers,Increase,Speed,45
+20% chance to craft an additional Item,Meta Crafting,20% additional,
+25% chance to Fracture an Explicit Modifier,Meta Crafting,25% fracture,
+25% chance to create a Mirrored Copy,Meta Crafting,25% mirrored,
+25% chance to create a Split Copy,Meta Crafting,25% split,
++1 Explicit Modifier,Modifiers,+1 Explicit,5
++1 to Item Level,Modifiers,+1 Item Level,8
+"+5% to Quality, up to 30%",Modifiers,+5 to Quality,8
+-1 Explicit Modifiers,Modifiers,-1 Explicit,10
++50 to Modifier Tier Rating ,Modifiers,Modifier Tier,20
+"+1 to minimum number of Linked Sockets, up to a maximum of 4",Modifiers,+1 Link to 4,
+"+1 to minimum number of Linked Sockets, up to a maximum of 5",Modifiers,+1 Link to 5,
+"+1 to minimum number of Linked Sockets, up to a maximum of 6",Modifiers,+1 Link to 6,
+"5% chance for Beast Corpses to not be consumed when Exorcising, up to 50%",Not Consume,Not consume Bea$t,10
+"5% chance for Construct Corpses to not be consumed when Exorcising, up to 50%",Not Consume,Not consume Const,10
+"5% chance for Demon Corpses to not be consumed when Exorcising, up to 50%",Not Consume,Not consume Demon,10
+"5% chance for Humanoid Corpses to not be consumed when Exorcising, up to 50%",Not Consume,Not consume Human,10
+"5% chance for Undead Corpses to not be consumed when Exorcising, up to 50%",Not Consume,Not consume Undead,10
+Attribute Modifiers are 100% scarcer ,Scarcer 100%,Attribute,20
+Chaos Modifiers are 100% scarcer ,Scarcer 100%,Chaos,30
+Cold Modifiers are 100% scarcer ,Scarcer 100%,Cold,15
+Critical Modifiers are 100% scarcer ,Scarcer 100%,Critical,25
+Defence Modifiers are 100% scarcer ,Scarcer 100%,Defence,25
+Fire Modifiers are 100% scarcer ,Scarcer 100%,Fire,25
+Gem Modifiers are 100% scarcer ,Scarcer 100%,Gem,120
+Life Modifiers are 100% scarcer ,Scarcer 100%,Life,30
+Lightning Modifiers are 100% scarcer ,Scarcer 100%,Lightning,10
+Mana Modifiers are 100% scarcer ,Scarcer 100%,Mana,60
+Physical Modifiers are 100% scarcer ,Scarcer 100%,Physical,50
+Resistance Modifiers are 100% scarcer ,Scarcer 100%,Resistance,90
+Speed Modifiers are 100% scarcer ,Scarcer 100%,Speed,20
+Attack Modifiers are 150% scarcer ,Scarcer,Attack,20
+Caster Modifiers are 150% scarcer ,Scarcer,Caster,15
+Elemental Modifiers are 150% scarcer ,Scarcer,Elemental,40
+Attribute Modifiers are 300% scarcer ,Scarcer,Attribute,20
+Chaos Modifiers are 300% scarcer ,Scarcer,Chaos,30
+Cold Modifiers are 300% scarcer ,Scarcer,Cold,15
+Critical Modifiers are 300% scarcer ,Scarcer,Critical,25
+Defence Modifiers are 300% scarcer ,Scarcer,Defence,25
+Fire Modifiers are 300% scarcer ,Scarcer,Fire,25
+Gem Modifiers are 300% scarcer ,Scarcer,Gem,120
+Life Modifiers are 300% scarcer ,Scarcer,Life,30
+Lightning Modifiers are 300% scarcer ,Scarcer,Lightning,10
+Mana Modifiers are 300% scarcer ,Scarcer,Mana,60
+Physical Modifiers are 300% scarcer ,Scarcer,Physical,50
+Resistance Modifiers are 300% scarcer ,Scarcer,Resistance,90
+Speed Modifiers are 300% scarcer ,Scarcer,Speed,20
+Attack Modifiers are 50% scarcer ,Scarcer 50%,Attack,20
+Caster Modifiers are 50% scarcer ,Scarcer 50%,Caster,15
+Elemental Modifiers are 50% scarcer ,Scarcer 50%,Elemental,40
+150% increased chance of Haunted Modifiers,Modifiers,150% increased chance Haunted,25
+50% increased chance of Haunted Modifiers,Modifiers,50% increased chance Haunted,
+Haunted by * Phrecia ,Unique,* Phrecia ,
+Haunted by * Grattus ,Unique,* Grattus ,
+Haunted by * Veruso ,Unique,* Veruso ,
+Haunted by * Perandus ,Unique,* Perandus,
+Haunted by * Nevalius ,Unique,* Nevalius,
+50% increased chance for Corruption Implicit Modifiers,,,
+Armour can roll Haunted Modifiers,,,
+Armour can roll Haunted Modifiers,,,
+Belt is a Stygian Vise,,,
+Creates a Belt,,,
+Creates a Bone Ring,,,
+Creates a Cerulean Ring,,,
+Creates a Grasping Mail,,,
+"Creates a Helmet, Gloves or Boots with Ward",,,
+Creates a Ring,,,
+"Creates a Ritual Helmet, Gloves or Boots",,,
+Creates a Sacrificial Garb,,,
+Creates a Steel Ring,,,
+Creates a Talisman,,,
+Creates a Vermillion Ring,,,
+Creates an Amulet,,,
+Creates an Experimented Weapon,,,
+Creates an Iolite Ring,,,
+Creates an Opal Ring,,,
+Has a random Conqueror Influence,,,
+Has Shaper or Elder Influence,,,
+Item is Corrupted,,,
+Item sells for much more to Vendors,,,
+"Randomises the numeric values of base Defences on an Armour 3 times, keeping the best outcome",,,
+"Randomises the numeric values of base Defences on an Armour 6 times, keeping the best outcome",,,
+Rarer Crafts are more common,,,
+"Reforge socket links 20 times, keeping the greatest number of links",,,
+"Reforge socket links 200 times, keeping the greatest number of links",,,
+"Reforge socket numbers 200 times, keeping the greatest number of sockets",,,
+"Reforge socket numbers 30 times, keeping the greatest number of sockets",,,
+"Reroll Base Type 5 times, keeping the Base Type with the highest Level Requirement",,,
+"Reroll Implicit Modifier Values 3 times, keeping the best outcome",,,
+"Reroll Implicit Modifier Values 6 times, keeping the best outcome",,,
+"Reroll Modifier Values of each Explicit Modifier 3 times, keeping the best outcome",,,
+"Reroll Modifier Values of each Explicit Modifier 6 times, keeping the best outcome",,,
+Ring is a Breach Ring,,,
