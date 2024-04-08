@@ -1,6 +1,6 @@
 import csv
 
-CATEGORIES = ["Beast", "Demon", "Undead", "Humanoid", "Construct"]
+CATEGORIES = ["Beast", "Demon", "Undead", "Humanoid", "Construct", "Eldritch"]
 METADATA_FILE = "mods.csv"
 
 class CoffinParser:
@@ -26,7 +26,7 @@ class CoffinParser:
                 
                 if mod_type not in data:
                     data[mod_type] = {}
-                    
+
                 data[mod_type][mod] = {"name": name, "total_count": 0, "sub_counts": {cat: 0 for cat in CATEGORIES}}
 
         return data
